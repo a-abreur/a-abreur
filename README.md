@@ -42,12 +42,18 @@ Transformo ideias em aplicações úteis, com atenção à experiência de uso, 
 | [Simulador de desenvolvimento urbano](https://github.com/a-abreur/urban-simulator) | Simulação interativa com HTML, CSS, JavaScript e backend em Python. |
 | [Churras App](https://github.com/a-abreur/churras-app) | Aplicativo mobile com React Native e Expo. |
 
-### GitHub em números
+### Atividade de desenvolvimento
+
+**19 repositórios no total**, entre públicos e privados (retrato de 19/10/2026).
+
+O [calendário de contribuições deste perfil](https://github.com/a-abreur#js-contribution-activity-description) mostra a atividade elegível dos projetos públicos e privados. As contribuições privadas aparecem de forma anônima: os nomes, o código e os detalhes desses repositórios não são divulgados. O total no calendário é atualizado pelo próprio GitHub.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=a-abreur&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas públicas do GitHub de Arthur Abreu" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-abreur&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens dos repositórios públicos de Arthur Abreu" />
+
+<br />
+<sub>O cartão de linguagens considera apenas repositórios públicos.</sub>
 
 </div>
 
@@ -55,6 +61,6 @@ Transformo ideias em aplicações úteis, com atenção à experiência de uso, 
 
 <div align="center">
 
-**Vamos construir algo útil.** [Explore meus repositórios](https://github.com/a-abreur?tab=repositories).
+**Vamos construir algo útil.** [Explore meus repositórios públicos](https://github.com/a-abreur?tab=repositories).
 
 </div>
