@@ -1,16 +1,60 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**a-abreur/a-abreur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou Arthur Abreu 👋
 
-Here are some ideas to get you started:
+### Desenvolvedor full stack · produtos web, mobile e automação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Transformo ideias em aplicações úteis, com atenção à experiência de uso, qualidade do código e segurança dos dados.
+
+[![GitHub](https://img.shields.io/badge/GitHub-a--abreur-181717?style=for-the-badge&logo=github)](https://github.com/a-abreur)
+[![Projetos](https://img.shields.io/badge/Explorar-projetos-238636?style=for-the-badge&logo=github)](https://github.com/a-abreur?tab=repositories)
+
+</div>
+
+---
+
+### Sobre mim
+
+- 💻 Desenvolvo interfaces, APIs e aplicações completas.
+- 🧠 Atualmente trabalho em um SaaS para apoiar a gestão de consultórios de psicologia.
+- 🔐 Tenho interesse em segurança, privacidade e boas práticas para sistemas com dados sensíveis.
+- 🚀 Gosto de acompanhar o produto da ideia ao deploy, incluindo testes e melhoria contínua.
+
+### Tecnologias
+
+<div align="center">
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+### Projetos em destaque
+
+| Projeto | O que explorei |
+| :--- | :--- |
+| [IntuitiveCare — desafio técnico](https://github.com/a-abreur/intuitivecare-teste) | Coleta e transformação de dados, banco de dados e API com Python/FastAPI. |
+| [Simulador de desenvolvimento urbano](https://github.com/a-abreur/urban-simulator) | Simulação interativa com HTML, CSS, JavaScript e backend em Python. |
+| [Churras App](https://github.com/a-abreur/churras-app) | Aplicativo mobile com React Native e Expo. |
+
+### GitHub em números
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=a-abreur&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas públicas do GitHub de Arthur Abreu" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-abreur&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens dos repositórios públicos de Arthur Abreu" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Vamos construir algo útil.** [Explore meus repositórios](https://github.com/a-abreur?tab=repositories).
+
+</div>
