@@ -48,12 +48,15 @@ Transformo ideias em aplicações úteis, com atenção à experiência de uso, 
 
 O [calendário de contribuições deste perfil](https://github.com/a-abreur#js-contribution-activity-description) mostra a atividade elegível dos projetos públicos e privados. As contribuições privadas aparecem de forma anônima: os nomes, o código e os detalhes desses repositórios não são divulgados. O total no calendário é atualizado pelo próprio GitHub.
 
+#### Indicadores dos repositórios públicos
+
 <div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=a-abreur&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas dos repositórios públicos de Arthur Abreu: commits, PRs, issues e estrelas" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-abreur&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens dos repositórios públicos de Arthur Abreu" />
 
 <br />
-<sub>O cartão de linguagens considera apenas repositórios públicos.</sub>
+<sub>Os cartões acima consideram apenas dados públicos. A atividade pública e privada, de forma anônima, aparece no calendário de contribuições do GitHub logo abaixo.</sub>
 
 </div>
 
